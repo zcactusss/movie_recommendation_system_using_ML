@@ -1,1 +1,1 @@
-# movie_recommendation_system_using_ML
+This project implements a Movie Recommendation System using a machine learning technique known as Collaborative Filtering. The system learns from user rating patterns to identify relationships between movies and generate meaningful recommendations.
